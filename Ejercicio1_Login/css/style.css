@@ -1,0 +1,38 @@
+.total {
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    padding: 20%;
+}
+
+.row {
+    color: white;
+    margin-bottom: 30px;
+    align-items: center;
+    text-align: center;
+}
+form    {
+    background-color: white;
+}
+
+#primero,  #segundo {
+    margin: 15px;
+    color: gray;
+}
+
+#segundo  {
+    padding-bottom: 30px;
+}
+
+div > input {
+    padding: 15px;
+    margin-bottom: 8px;
+}
+
+.gray {
+    background-color: gray;
+}
+
+button {
+    height: max-content;
+}
