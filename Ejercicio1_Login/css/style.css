@@ -1,5 +1,5 @@
 .total {
-    background-color: blueviolet;
+    background-color: rgb(59, 58, 59);
     display: flex;
     align-items: center;
     padding: 20%;
@@ -11,8 +11,10 @@
     align-items: center;
     text-align: center;
 }
+
 form    {
     background-color: white;
+    
 }
 
 #primero,  #segundo {
@@ -26,13 +28,76 @@ form    {
 
 div > input {
     padding: 15px;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 
-.gray {
-    background-color: gray;
+.login-with {
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(253, 249, 249);
+}
+
+.grid-container     {
+    display: grid;
+    width: 90%; 
+    margin-left: 20px;
+    grid-template-columns: repeat(3);
+    grid-template-areas: 
+    "facebook twitter google";
+    border-bottom: 1px solid gray;
+    background-color: transparent;
+}
+
+.facebook   {grid-area: "facebook";}
+.twitter    {grid-area: "twitter";}
+.google     {grid-area: "google";}
+
+.facebook   {
+    background-color: transparent;
+    align-items: flex-start;
+    font-family: 'Courier New';
+    font-size: 15px;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    color: aliceblue;
+}
+
+.twitter    {
+    background-color: transparent;
+    align-items: flex-start;
+    font-family: 'Courier New';
+    font-size: 15px;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    color: aliceblue;
+}
+
+.google    {
+    background-color: transparent;
+    align-items: flex-start;
+    font-family: 'Courier New';
+    font-size: 15px;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    width: 150px; 
+    color: aliceblue;
+}
+
+#custom1, #custom2, #custom3    {
+    width: 390px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#custom3 {
+    margin-bottom: 20px;
 }
 
 button {
     height: max-content;
+    width: 100%;   
 }
