@@ -20,6 +20,10 @@ UD31 : BootStrap
 
                                                                       RESULTADOS:
                                                                       
+  Enlace al repliegue GitHub Pages:
+  
+  https://ltripley27.github.io/Java_Bootcamp_Splai_UD31_BoostStrap/Ejercicio1_Login/index.html
+  
                                                                       
   ![image](https://user-images.githubusercontent.com/36207623/158068907-7861ada5-3361-4754-9287-8fda449b7b76.png)
                                                                    
@@ -29,14 +33,19 @@ UD31 : BootStrap
   - ENUNCIADO:
   
   - 2) Crea la siguiente plantilla de formulario de contacto con Bootstrap.    
-
+  
 
 ![image](https://user-images.githubusercontent.com/36207623/158068948-33cdec48-f0be-4825-a65a-3f12587cae3a.png)
 
 
 
                                                                       RESULTADOS:
-                                                                      
+  
+  
+   Enlace al repliegue GitHub Pages:
+  
+  https://ltripley27.github.io/Java_Bootcamp_Splai_UD31_BoostStrap/Ejercicio2/index.html
+  
                                                                       
  ![image](https://user-images.githubusercontent.com/36207623/158068969-dc90ec25-2865-43ec-92f4-b4354896ea84.png)
  
@@ -53,7 +62,13 @@ UD31 : BootStrap
 
                                                                       RESULTADOS:
                                                                       
-                                                                      
+  
+   Enlace al repliegue GitHub Pages:
+  
+  https://ltripley27.github.io/Java_Bootcamp_Splai_UD31_BoostStrap/Ejercicio3_NavMenu/index.html
+  
+  
+  
  ![image](https://user-images.githubusercontent.com/36207623/158069085-698cb544-31e4-4487-861f-dad45a3eeecb.png)
                                                                     
                                                                      
@@ -69,6 +84,11 @@ UD31 : BootStrap
 
                                                                       RESULTADOS:
                                                                       
+  Enlace al repliegue GitHub Pages:
+  
+  https://ltripley27.github.io/Java_Bootcamp_Splai_UD31_BoostStrap/Ejercicio4_Plantilla/index.html
+  
+                                                                      
  ![image](https://user-images.githubusercontent.com/36207623/158069136-d4c9c67c-340e-44d0-8e4a-4b2aac7b9876.png)
  
  
@@ -82,7 +102,11 @@ UD31 : BootStrap
 
 
                                                                       RESULTADOS:
-                                                                      
+   
+   Enlace al repliegue GitHub Pages:
+   
+   
+   https://ltripley27.github.io/Java_Bootcamp_Splai_UD31_BoostStrap/Ejercicio5_ListadoUsers/index.html
                                                                       
 ![image](https://user-images.githubusercontent.com/36207623/158069219-4448327a-0660-49d1-b279-9a38b47ea00e.png)
                                                                      
