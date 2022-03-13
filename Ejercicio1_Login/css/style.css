@@ -1,11 +1,21 @@
-.total {
+body {
+    margin: auto 0px;
+    background-color: rgb(59, 58, 59);
+}
+
+.container {
+    margin: 10%;
     background-color: rgb(59, 58, 59);
     display: flex;
     align-items: center;
+    flex-direction: column;
+    width: 100%;
     padding: 20%;
 }
 
 .row {
+    display: flex;
+    flex-direction: row;
     color: white;
     margin-bottom: 30px;
     align-items: center;
@@ -39,7 +49,7 @@ div > input {
 
 .grid-container     {
     display: grid;
-    width: 90%; 
+    width: 50%; 
     margin-left: 20px;
     grid-template-columns: repeat(3);
     grid-template-areas: 
@@ -83,7 +93,7 @@ div > input {
     padding-left: 15px;
     padding-top: 12px;
     padding-bottom: 10px;
-    width: 150px; 
+    width: 280px; 
     color: aliceblue;
 }
 
